@@ -6,7 +6,7 @@ Bievenue sur le profil d'Idriss Diakité
 Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" ~ Bac +2.
 
 - 🔭 À la recherche d'un poste de développeur front-end
-- 🌱 Toujours en quête de découvertes, j'ai soif d'apprendre
+- 🌱 Soif d'apprendre et de monter en compétences
   <br>
 
 <p align="left">
@@ -24,10 +24,10 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
   <a href="#"><img alt="JavaScript"
       src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
-  <a href="#"><img alt="SQL"
-      src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
   <a href="#"><img alt="SVG+XML"
       src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
+  <a href="#"><img alt="SQL"
+      src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
   <a href="#"><img alt="GraphQL"
       src="https://img.shields.io/badge/GraphQL%20-%23E10098.svg?logo=graphql&logoColor=white"></a>
   <a href="#"><img alt="Markdown"
