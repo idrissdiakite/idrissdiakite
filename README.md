@@ -23,6 +23,8 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="JavaScript"
       src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="Php"
+      src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?logo=php&logoColor=white"></a>
   <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
   <a href="#"><img alt="SVG+XML"
       src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
@@ -65,25 +67,9 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
       src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23121011.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/BitBucket%20-%230047B3.svg?logo=bitbucket&logoColor=white"></a>
+  <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress%20-%23117AC9.svg?logo=wordpress&logoColor=white"></a>
   <a href='#'> <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"/>
   </a>
     <a href="#"><img alt="Stack Overflow"
       src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
-
-
-
-<!--
-**idrissdiakite/idrissdiakite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
