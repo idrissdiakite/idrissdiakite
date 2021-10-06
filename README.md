@@ -43,12 +43,13 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
       src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
   <a href="#"><img alt="React"
       src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="React"
+  <a href="#"><img alt="Gatsby"
       src="https://img.shields.io/badge/Gatsby%20-%23663399.svg?logo=gatsby&logoColor=white"></a>
+  <a href='#'> <img alt="Framer" src="https://img.shields.io/badge/Framer-black.svg?logo=framer&logoColor=white"/></a>
+    <a href="#"><img alt="TailwindCSS"
+    src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap"
       src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="TailwindCSS"
-    src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 </p>
 
 ### 🗄️ Bases de données
@@ -68,7 +69,6 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
   <a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/BitBucket%20-%230047B3.svg?logo=bitbucket&logoColor=white"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress%20-%23117AC9.svg?logo=wordpress&logoColor=white"></a>
   <a href='#'> <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"/></a>
-  <a href='#'> <img alt="Figma" src="https://img.shields.io/badge/Framer-black.svg?logo=framer&logoColor=white"/></a>
   <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
