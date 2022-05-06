@@ -3,10 +3,10 @@ Bievenue sur le profil d'Idriss Diakité
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" ~ Bac +2.
+Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" (~ bac +2) depuis mai 2021, je suis actuellement en cdi au sein de l'agence Zelda Communication en tant que (seul et unique) développeur web.
 
-- 🔭 À la recherche d'un poste de développeur front-end
 - 🌱 Soif d'apprendre et de monter en compétences
+- 🔭 À la recherche d'un poste de développeur front-end
   <br>
 
 <p align="left">
@@ -39,10 +39,10 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 ### 🧰 Frameworks & bibliothèques
 
 <p>
-  <a href="#"><img alt="Angular"
-      src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
   <a href="#"><img alt="React"
       src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   <a href="#"><img alt="VuesJs"
+      src="https://img.shields.io/badge/Vuejs%20-%2335495e.svg?logo=vuedotjs&logoColor=white"></a>
   <a href="#"><img alt="Gatsby"
       src="https://img.shields.io/badge/Gatsby%20-%23663399.svg?logo=gatsby&logoColor=white"></a>
   <a href='#'> <img alt="Framer" src="https://img.shields.io/badge/Framer-black.svg?logo=framer&logoColor=white"/></a>
