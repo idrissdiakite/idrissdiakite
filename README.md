@@ -3,7 +3,7 @@ Bievenue sur le profil d'Idriss Diakité
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" (~ bac +2) depuis mai 2021, je suis actuellement en cdi au sein de l'agence Zelda Communication en tant que (seul et unique) développeur web.
+Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" (bac +2) depuis mai 2021, je suis actuellement en cdi au sein de l'agence Zelda Communication en tant que (seul et unique) développeur.
 
 - 🌱 Soif d'apprendre et de monter en compétences
 - 🔭 À la recherche d'un poste de développeur front-end
