@@ -7,7 +7,7 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 
 - 🌱 Soif d'apprendre et de monter en compétences
 - 🔭 À la recherche d'un poste de développeur front-end
-- 💈 Portfolio: <a href="https://idrissdiakite.netlify.app">idrissdiakite.netlify.app</a>
+- 💈 Portfolio: <a href="https://idrissdiakite.netlify.app" target="_blank">idrissdiakite.netlify.app</a>
   <br>
 
 <p align="left">
