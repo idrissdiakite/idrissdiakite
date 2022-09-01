@@ -76,7 +76,7 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 
 ## 🏆 CSS Battle
 
-[![Generic badge](https://img.shields.io/badge/MON-COMPTE-blue.svg)](https://cssbattle.dev/player/idiakite)
+[![Generic badge](https://img.shields.io/badge/MON-SCORE-blue.svg)](https://cssbattle.dev/player/idiakite)
 
 
 ## 📮 Contact
