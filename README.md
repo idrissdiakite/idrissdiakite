@@ -73,3 +73,13 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
   <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
+
+## 🏆 CSS Battle
+
+[![Generic badge](https://img.shields.io/badge/MON-COMPTE-blue.svg)](https://cssbattle.dev/player/idiakite)
+
+
+## 📮 Contact
+
+<a href="mailto:idriss.diakite@hotmail.fr"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/idiakite/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
