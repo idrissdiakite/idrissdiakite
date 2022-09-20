@@ -5,9 +5,9 @@ Bievenue sur le profil d'Idriss Diakité
 
 Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" (bac +2), je suis actuellement en cdi au sein de l'agence Zelda en tant que (seul et unique) développeur et ce depuis octobre 2021.
 
-- 🌱 Soif d'apprendre et de monter en compétences
-- 🔭 À la recherche d'un poste de développeur front-end
 - 💈 Portfolio: <a href="https://idrissdiakite.netlify.app" target="_blank">idrissdiakite.netlify.app</a>
+- 🌱 Soif d'apprendre et de monter en compétences
+- 🔭 À la recherche d'un poste de développeur front-end (disponible à partir de décembre)
   <br>
 
 <p align="left">
