@@ -31,8 +31,6 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
   <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
   <a href="#"><img alt="SVG+XML"
       src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
-  <a href="#"><img alt="SQL"
-      src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
   <a href="#"><img alt="GraphQL"
       src="https://img.shields.io/badge/GraphQL%20-%23E10098.svg?logo=graphql&logoColor=white"></a>
   <a href="#"><img alt="Markdown"
