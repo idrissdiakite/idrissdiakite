@@ -72,10 +72,21 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
   <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23121011.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?logo=gitlab&logoColor=white"></a>
   <a href="#"><img alt="BitBucket" src="https://img.shields.io/badge/BitBucket%20-%230047B3.svg?logo=bitbucket&logoColor=white"></a>
+  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white"></a>
+</p>
+<p>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
+  <a href="#"><img alt="OVH" src="https://img.shields.io/badge/ovh-%23123F6D.svg?logo=ovh&logoColor=#123F6D"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress%20-%23117AC9.svg?logo=wordpress&logoColor=white"></a>
   <a href='#'> <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"/></a>
   <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+</p>
+<p>
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white"></a>
+  <a href="#"><img alt="OpenSea" src="https://img.shields.io/badge/OpenSea-%232081E2.svg?logo=opensea&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/ilovethistrack.com"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760.svg?logo=spotify&logoColor=white"></a>
+  <a href="#"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white"></a>
 </p>
 
 # 🏆 CSS Battle
