@@ -64,7 +64,7 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 </p>
 
 
-### 💻 Outils & logiciels
+### 💻 Outils, logiciels & autres
 
 <p>
   <a href="#"><img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?logo=apple&logoColor=white"></a>
