@@ -44,6 +44,8 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
       src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
    <a href="#"><img alt="VuesJs"
       src="https://img.shields.io/badge/Vuejs%20-%2335495e.svg?logo=vuedotjs&logoColor=white"></a>
+   <a href="#"><img alt="Nuxtjs"
+      src="https://img.shields.io/badge/Nuxt-002E3B.svg?logo=nuxtdotjs&logoColor=#00DC82"></a>
   <a href="#"><img alt="Gatsby"
       src="https://img.shields.io/badge/Gatsby%20-%23663399.svg?logo=gatsby&logoColor=white"></a>
   <a href='#'> <img alt="Framer" src="https://img.shields.io/badge/Framer-black.svg?logo=framer&logoColor=white"/></a>
@@ -65,7 +67,7 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 ### 💻 Outils & logiciels
 
 <p>
-  <a href="#"><img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="#"><img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?logo=apple&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23121011.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?logo=gitlab&logoColor=white"></a>
