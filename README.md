@@ -75,8 +75,8 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white"></a>
 </p>
 <p>
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
-  <a href="#"><img alt="OVH" src="https://img.shields.io/badge/ovh-%23123F6D.svg?logo=ovh&logoColor=#123F6D"></a>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
+  <a href="#"><img alt="OVH" src="https://img.shields.io/badge/Ovh-%23123F6D.svg?logo=ovh&logoColor=#123F6D"></a>
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress%20-%23117AC9.svg?logo=wordpress&logoColor=white"></a>
   <a href='#'> <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"/></a>
   <a href="#"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
