@@ -40,14 +40,15 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 ### 🧰 Frameworks & bibliothèques
 
 <p>
+  <a href="#"><img alt="Laravel"
+      src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=%2361DAFB"></a>
   <a href="#"><img alt="React"
       src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
    <a href="#"><img alt="VuesJs"
       src="https://img.shields.io/badge/Vuejs%20-%2335495e.svg?logo=vuedotjs&logoColor=white"></a>
    <a href="#"><img alt="Nuxtjs"
       src="https://img.shields.io/badge/Nuxt-002E3B.svg?logo=nuxtdotjs&logoColor=#00DC82"></a>
-  <a href="#"><img alt="Gatsby"
-      src="https://img.shields.io/badge/Gatsby%20-%23663399.svg?logo=gatsby&logoColor=white"></a>
+  <a href='#'> <img alt="Greensock" src="https://img.shields.io/badge/Green%20sock-88CE02.svg?logo=greensock&logoColor=white"/></a>
   <a href='#'> <img alt="Framer" src="https://img.shields.io/badge/Framer-black.svg?logo=framer&logoColor=white"/></a>
     <a href="#"><img alt="TailwindCSS"
     src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
