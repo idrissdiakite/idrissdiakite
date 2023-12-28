@@ -9,7 +9,7 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 - 🌱 Soif d'apprendre et de monter en compétences
 - 🔭 À la recherche d'un poste de développeur front-end
 
- Disponible à partir de décembre 2022.
+ Ouvert aux propositions.
   <br>
 
 <p align="left">
