@@ -3,11 +3,11 @@ Bievenue sur le profil d'Idriss Diakité
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" (bac +2), je suis actuellement en cdi au sein de l'agence Digital Cover en tant que développeur créatif et ce depuis janvier 2023.
+Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin 2019 de quitter mon poste de manager adjoint afin de me professionnaliser dans le développement web. Titulaire du Titre Professionnel "Développeur web et web mobile full stack" (bac +2), je suis actuellement en cdi au sein de l'agence Digital Cover en tant que développeur créatif.
 
 - 💈 Portfolio: <a href="https://idrissdiakite.netlify.app" target="_blank">idrissdiakite.netlify.app</a>
 - 🌱 Soif d'apprendre et de monter en compétences
-- 🔭 À la recherche d'un poste de développeur front-end
+- 🔭 Potentiellement à la recherche d'un nouveau défi
 
  Ouvert aux propositions.
   <br>
