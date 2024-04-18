@@ -7,7 +7,7 @@ Après plus de 10 années passées dans l'univers de la vente, j'ai décidé fin
 
 - 💈 Portfolio: <a href="https://idrissdiakite.netlify.app" target="_blank">idrissdiakite.netlify.app</a>
 - 🌱 Soif d'apprendre et de monter en compétences
-- 🔭 Potentiellement à la recherche d'un nouveau challenge
+- 🔭 À la recherche d'un nouveau challenge
 
  Ouvert aux propositions.
   <br>
